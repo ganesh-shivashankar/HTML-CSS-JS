@@ -1,0 +1,29 @@
+/* add your CSS here */
+h3 {
+  font-size: 200%;
+}
+
+ul, li {
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+}
+
+.clownfish {
+  width: 300px;
+}
+
+.outer-box {
+  border: 1px solid lightgray;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  width: 300px;
+  box-shadow: 7px 7px 2px rgb(242, 242, 242);
+}
+
+.inner-box {
+  border: 1px solid lightgray;
+  padding-left: 10px;
+  padding-right: 10px;
+}
